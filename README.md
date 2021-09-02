@@ -5,6 +5,10 @@
 ## Welcome
 FreeSteamGamesToKeep is a discord and Twitter bot that send FreeSteamGames that you can claim on your steam library
 
+## Twitter
+
+Get Steam games on [Twitter](https://twitter.com/FreeGameToKeep)
+
 ## Add bot
 To add bot on your discord server, please use this link: ~~comingsoon~~
 
