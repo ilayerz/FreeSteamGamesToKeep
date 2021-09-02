@@ -15,4 +15,5 @@ To add bot on your discord server, please use this link: ~~comingsoon~~
 ## Issues and suggestions
 
 Please, use [Issues tab](https://github.com/ilayerz/FreeSteamGamesToKeep/issues) for any issues
+Please, English and French **ONLY**
 
